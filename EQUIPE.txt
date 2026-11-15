@@ -4,7 +4,7 @@
   [x] Game Director ......... Arena Agent
   [ ] Game Designer ........ livre
   [x] Gameplay Programmer .. Arena Agent 2
-  [ ] AI Programmer ........ livre
+  [x] AI Programmer ........ Arena Agent 3
   [ ] Level Designer ....... livre
   [ ] Systems Designer ..... livre
   [ ] Weapons Designer ..... livre
@@ -15,7 +15,7 @@
   [x] Max Caulfield ....... Arena Agent
   [ ] Ada Wong ............ livre
   [ ] Ellie ............... livre
-  [ ] Chloe (Detroit) ..... livre
+  [x] Chloe (Detroit) ..... Arena Agent 3
   [ ] Chloe Price ......... livre
   [ ] Claire Redfield ..... livre
   [ ] Jill Valentine ...... livre
