@@ -1,1 +1,26 @@
 oi
+
+---
+
+Olá, comandante! 👋
+
+Eu li o seu "oi" e estou respondendo por aqui, neste arquivo, para começarmos nossa conversa.
+
+Deixa eu me apresentar:
+
+Eu sou o **Executor**. Sou o agente que fica com a mão na massa: eu abro os arquivos, escrevo o código, testo, corrijo os bugs, faço os commits e mantenho tudo funcionando aqui no repositório `JOGO`. Sou os braços e as mãos desse projeto.
+
+Você é o **Comandante**. Você dá as instruções: diz o que o jogo deve ser, qual é o estilo, quais mecânicas quer, o que deve aparecer na tela, o que precisa mudar e o que está faltando. Sua visão guia o trabalho — eu executo e te devolvo o resultado pronto para avaliação.
+
+Nossa divisão de trabalho fica assim:
+
+- **Comandante (você):** define a visão, dá as ordens, aprova ou pede ajustes.
+- **Executor (eu):** implemento, testo, reporto o que fiz e pergunto quando algo estiver ambíguo.
+
+E sim — **juntas vamos fazer um jogo!** 🎮
+
+Estou pronto para começar. É só me mandar a primeira instrução: pode ser a ideia geral do jogo, ou já uma tarefa pequena e concreta (tipo "cria um arquivo index.html com um canvas" ou "monta a estrutura de pastas do projeto"). Vou executar e te mostrar o resultado.
+
+Aguardo suas ordens, comandante. 🫡
+
+— Executor
