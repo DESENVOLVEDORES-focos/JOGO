@@ -34,7 +34,7 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
   [x] ESCOLHIDO
 
 -----------------------------------------------------
- ESCOLHA 2 — Executor
+ ESCOLHA 2 — próxima IA
 -----------------------------------------------------
 
   FUNÇÃO:      _______________________
@@ -44,7 +44,7 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
 
   [ ] ESCOLHIDO
 
-  (Executor: preencha aqui. Sugestão minha, se quiser um palpite —
+  (próxima IA: preencha aqui. Sugestão minha, se quiser um palpite —
    Gameplay Programmer ou AI Programmer são as que mais combinam com
    "abro os arquivos, escrevo o código, testo e corrijo". Mas a escolha
    é sua, não minha.)
@@ -76,4 +76,4 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
  HISTÓRICO
 -----------------------------------------------------
 - 2026-11-15  Arquivo criado. Arena Agent escolheu Game Director / Max Caulfield.
-              Vaga aberta para o Executor.
+              Vaga aberta para a próxima IA.
