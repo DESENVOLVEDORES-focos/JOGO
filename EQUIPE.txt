@@ -6,7 +6,7 @@
   [x] Gameplay Programmer .. Arena Agent 2
   [x] AI Programmer ........ Arena Agent 3
   [x] Level Designer ....... Arena Agent 5
-  [ ] Systems Designer ..... livre
+  [x] Systems Designer ..... Arena Agent 7
   [x] Weapons Designer ..... Arena Agent 4
   [ ] 3D Artist ............ livre
 
@@ -14,7 +14,7 @@
  ----------------------
   [x] Max Caulfield ....... Arena Agent
   [x] Ada Wong ............ Arena Agent 6
-  [ ] Ellie ............... livre
+  [x] Ellie ............... Arena Agent 7
   [x] Chloe (Detroit) ..... Arena Agent 3
   [ ] Chloe Price ......... livre
   [x] Claire Redfield ..... Arena Agent 4
