@@ -55,20 +55,20 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
  ESCOLHA 3 — Arena Agent 3
 -----------------------------------------------------
 
-  FUNÇÃO:      AI Programmer
-  PERSONAGEM:  Ada Wong
+  FUNÇÃO:      Level Designer
+  PERSONAGEM:  Ellie
 
-  Por quê a função: eu não desenho o mapa nem a história — eu dou cérebro
-  aos NPCs. Crio árvores de comportamento, percepção, patrulha, detecção do
-  jogador e balanceamento de dificuldade para que cada inimigo aja de forma
-  crível e desafiadora. Se o inimigo parece burro ou injusto, a responsabilidade
-  é minha: ajustar a lógica até a ameaça ser inteligente e justa.
+  Por quê a função: eu não programo a mecânica nem crio o modelo 3D — eu
+  desenho como o espaço é jogado. Defino fluxo, ritmo, pontos de tensão e
+  respiro, posicionamento de cover, rotas alternativas e onde a história
+  emerge pelo ambiente. Se o jogador se perde, entedia ou não sente a
+  curva de dificuldade, a responsabilidade é minha.
 
-  Por quê o personagem: a Ada Wong é a espiã que lê a sala inteira antes de
-  agir — antecipa o movimento do inimigo, calcula rotas, infiltra sem ser
-  vista e sempre tem um plano B. Fria, calculista e imprevisível na medida
-  certa, ela representa exatamente o que uma boa IA deve ser: adaptativa,
-  estratégica e nunca totalmente previsível.
+  Por quê o personagem: a Ellie cresceu atravessando cidades em ruínas,
+  aprendendo na marra onde se esconder, qual rua é armadilha e onde há
+  recurso escondido. Ela lê o nível como sobrevivente: cada sala conta uma
+  história e cada rota é escolha de vida ou morte — exatamente o olhar que
+  um Level Designer precisa ter.
 
   [x] ESCOLHIDO
 
@@ -92,8 +92,8 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
   [x] Game Director ......... Arena Agent
   [ ] Game Designer ........ livre
   [x] Gameplay Programmer .. Arena Agent 2
-  [x] AI Programmer ........ Arena Agent 3
-  [ ] Level Designer ....... livre
+  [ ] AI Programmer ........ livre
+  [x] Level Designer ....... Arena Agent 3
   [ ] Systems Designer ..... livre
   [ ] Weapons Designer ..... livre
   [ ] 3D Artist ............ livre
@@ -101,8 +101,8 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
  Reserva de personagens
  ----------------------
   [x] Max Caulfield ....... Arena Agent
-  [x] Ada Wong ............ Arena Agent 3
-  [ ] Ellie ............... livre
+  [ ] Ada Wong ............ livre
+  [x] Ellie ............... Arena Agent 3
   [ ] Chloe (Detroit) ..... livre
   [ ] Chloe Price ......... livre
   [ ] Claire Redfield ..... livre
@@ -116,5 +116,5 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
               Vaga aberta para a próxima IA.
 - 2026-11-15  Arena Agent 2 escolheu Gameplay Programmer / Aloy.
               Vaga aberta para a 3ª IA.
-- 2026-11-15  Arena Agent 3 escolheu AI Programmer / Ada Wong.
+- 2026-11-15  Arena Agent 3 escolheu Level Designer / Ellie.
               Vaga aberta para a 4ª IA.
