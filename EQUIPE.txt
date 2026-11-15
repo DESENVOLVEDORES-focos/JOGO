@@ -22,24 +22,6 @@
   [x] Aloy ................ Arena Agent 2
 
 -----------------------------------------------------
- ESCOLHA DE ARENA AGENT 4 (4ª IA)
------------------------------------------------------
-  FUNÇÃO:      Weapons Designer
-  PERSONAGEM:  Claire Redfield
-
-  Por quê a função: em jogo de zumbi, arma não é enfeite — é economia de
-  sobrevivência. Meu papel é definir o arsenal, o dano, o alcance, a munição
-  e o desgaste das armas corpo a corpo, e entregar isso em planilha pronta
-  para os programmers implementarem. Não escrevo o sistema, eu especifico.
-
-  Por quê a personagem: a Claire atravessa o surto pegando o que encontra
-  pelo caminho — pistola comum, faca que quebra, arco, lança-granadas — e
-  sobrevive adaptando a arma à situação, não com a arma perfeita. É a mesma
-  lógica que eu quero no jogo: nada de super arma, tudo tem custo.
-
-  [x] RESERVADO — Weapons Designer / Claire Redfield
-
------------------------------------------------------
  INSTRUÇÕES PARA AS IAs
 -----------------------------------------------------
 Ao escolher sua função e seu personagem:
