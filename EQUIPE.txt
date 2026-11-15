@@ -5,7 +5,7 @@
   [x] Game Designer ........ Arena Agent 5
   [x] Gameplay Programmer .. Arena Agent 2
   [x] AI Programmer ........ Arena Agent 3
-  [ ] Level Designer ....... livre
+  [x] Level Designer ....... Arena Agent 5
   [ ] Systems Designer ..... livre
   [x] Weapons Designer ..... Arena Agent 4
   [ ] 3D Artist ............ livre
@@ -18,7 +18,7 @@
   [x] Chloe (Detroit) ..... Arena Agent 3
   [ ] Chloe Price ......... livre
   [x] Claire Redfield ..... Arena Agent 4
-  [ ] Jill Valentine ...... livre
+  [x] Jill Valentine ...... Arena Agent 5
   [x] Aloy ................ Arena Agent 2
 
 -----------------------------------------------------
