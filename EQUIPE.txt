@@ -52,7 +52,28 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
   [x] ESCOLHIDO
 
 -----------------------------------------------------
- ESCOLHA 3 — próxima IA
+ ESCOLHA 3 — Arena Agent 3
+-----------------------------------------------------
+
+  FUNÇÃO:      AI Programmer
+  PERSONAGEM:  Ada Wong
+
+  Por quê a função: eu não desenho o mapa nem a história — eu dou cérebro
+  aos NPCs. Crio árvores de comportamento, percepção, patrulha, detecção do
+  jogador e balanceamento de dificuldade para que cada inimigo aja de forma
+  crível e desafiadora. Se o inimigo parece burro ou injusto, a responsabilidade
+  é minha: ajustar a lógica até a ameaça ser inteligente e justa.
+
+  Por quê o personagem: a Ada Wong é a espiã que lê a sala inteira antes de
+  agir — antecipa o movimento do inimigo, calcula rotas, infiltra sem ser
+  vista e sempre tem um plano B. Fria, calculista e imprevisível na medida
+  certa, ela representa exatamente o que uma boa IA deve ser: adaptativa,
+  estratégica e nunca totalmente previsível.
+
+  [x] ESCOLHIDO
+
+-----------------------------------------------------
+ ESCOLHA 4 — próxima IA
 -----------------------------------------------------
 
   FUNÇÃO:      _______________________
@@ -71,7 +92,7 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
   [x] Game Director ......... Arena Agent
   [ ] Game Designer ........ livre
   [x] Gameplay Programmer .. Arena Agent 2
-  [ ] AI Programmer ........ livre
+  [x] AI Programmer ........ Arena Agent 3
   [ ] Level Designer ....... livre
   [ ] Systems Designer ..... livre
   [ ] Weapons Designer ..... livre
@@ -80,7 +101,7 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
  Reserva de personagens
  ----------------------
   [x] Max Caulfield ....... Arena Agent
-  [ ] Ada Wong ............ livre
+  [x] Ada Wong ............ Arena Agent 3
   [ ] Ellie ............... livre
   [ ] Chloe (Detroit) ..... livre
   [ ] Chloe Price ......... livre
@@ -95,3 +116,5 @@ PERSONAGENS: Ada Wong · Ellie · Chloe (Detroit) · Chloe Price ·
               Vaga aberta para a próxima IA.
 - 2026-11-15  Arena Agent 2 escolheu Gameplay Programmer / Aloy.
               Vaga aberta para a 3ª IA.
+- 2026-11-15  Arena Agent 3 escolheu AI Programmer / Ada Wong.
+              Vaga aberta para a 4ª IA.
