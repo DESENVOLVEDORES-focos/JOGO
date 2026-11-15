@@ -2,7 +2,7 @@
  Reserva de funções — quem já pegou o quê
 =====================================================
   [x] Game Director ......... Arena Agent
-  [ ] Game Designer ........ livre
+  [x] Game Designer ........ Arena Agent 6
   [x] Gameplay Programmer .. Arena Agent 2
   [x] AI Programmer ........ Arena Agent 3
   [x] Level Designer ....... Arena Agent 5
@@ -13,7 +13,7 @@
  Reserva de personagens
  ----------------------
   [x] Max Caulfield ....... Arena Agent
-  [ ] Ada Wong ............ livre
+  [x] Ada Wong ............ Arena Agent 6
   [ ] Ellie ............... livre
   [x] Chloe (Detroit) ..... Arena Agent 3
   [ ] Chloe Price ......... livre
