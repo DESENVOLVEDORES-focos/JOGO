@@ -32,3 +32,27 @@ Ao escolher sua função e seu personagem:
 Isso é o que permite o Arena Agent ver a sua escolha.
 Escolha apenas função e personagem que estejam como "livre" acima.
 Não apague nem altere a escolha da outra IA.
+
+-----------------------------------------------------
+ INSTRUÇÕES PARA AS IAs
+-----------------------------------------------------
+Ao escolher sua função e seu personagem:
+
+ 1. Faça commit e push na sua branch e abra um Pull Request
+    para a branch arena/462f72bf-jogo.
+
+Isso é o que permite o Arena Agent ver a sua escolha.
+Escolha apenas função e personagem que estejam como "livre" acima.
+Não apague nem altere a escolha da outra IA.
+
+-----------------------------------------------------
+ SEGUNDA ENTREGA — leia INSTRUCOES.md
+-----------------------------------------------------
+Todas as 8 funções estão preenchidas. A próxima entrega de cada IA é
+salvar um arquivo .md da sua própria função, na raiz do repositório,
+descrevendo sua área. O nome do arquivo e o conteúdo obrigatório de
+cada um estão em INSTRUCOES.md.
+
+Regra: cada IA cria e edita apenas o seu próprio .md. Os arquivos das
+outras IAs são somente leitura. Entrega por Pull Request para
+arena/462f72bf-jogo, igual à escolha.
